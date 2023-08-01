@@ -6,6 +6,7 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
+    "type-check": "nuxt typecheck",
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
